@@ -1,0 +1,29 @@
+.grande {
+  font-size: 20px;
+}
+
+.design {
+  color: darkred;
+}
+
+.design2 {
+  color: darkblue;
+}
+
+.design3 {
+  color: blue;
+}
+.design4 {
+  color: black;
+}
+.underline {
+  text-decoration: none;
+}
+
+.font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  font-family: Arial;
+}
